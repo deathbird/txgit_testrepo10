@@ -1,16 +1,16 @@
 # FIRST AUTHOR <email@address>, YEAR.
 # 
 # Translators:
-# Giannos Dimas <jack_dimas@yahoo.com>, 2019
+# Giannos Dimas <giannosdim@transifex.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-03-13 10:12+0000\n"
-"Last-Translator: Giannos Dimas <jack_dimas@yahoo.com>, 2019\n"
-"Language-Team: Greek (https://www.transifex.com/journeyman-ltd/teams/97138/el/)\n"
+"PO-Revision-Date: 2019-09-16 07:15+0000\n"
+"Last-Translator: Giannos Dimas <giannosdim@transifex.com>, 2019\n"
+"Language-Team: Greek (https://example.com/journehyman-ltd/teams/13/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
